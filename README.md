@@ -63,19 +63,6 @@
 
 <h2 align="left">Hi 👋! My name is Abdelkrim Boucerba and I'm a Data Scientist & Marketing Strategist from Algeria.</h2>
 
-<!-- Avatar on the right (small & clean) -->
-<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwdWwzOXU4M3JuN3VtMHVyaWYzaHczb3VsdnNsZnl0ajNueGVtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q217GUnfKAmJlFcjBX/giphy.gif" alt="avatar gif"/>
-
-<!-- Two centered kawaii/coding GIFs -->
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2RnNWtpbXFzYnAzZGVkZDh0OHQ0aW04cmNucWkzeXRvM2sxZnRqdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SqMQCnUleC5zuj9BJz/giphy.gif" alt="kawaii coding 1"/>
-  <img width="12"/>
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjRkN3VyN2Z3YmpkdzVzd3VzaGYyNjJ6c3kyZDB5Y28xaTdvNXVieCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7m9QYSiUeURbKqOfS9/giphy.gif" alt="kawaii coding 2"/>
-</div>
-
-<br clear="both"/>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maicro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maicro24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -87,12 +74,18 @@
   <img src="https://github-profile-trophy.vercel.app?username=maicro24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maicro24/maicro24/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maicro24/maicro24/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maicro24/maicro24/output/pacman-contribution-graph.svg">
-</picture>
 
-<img src="https://raw.githubusercontent.com/maicro24/maicro24/output/snake.svg" alt="Snake animation" />
+<!-- Avatar on the right (small & clean) -->
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwdWwzOXU4M3JuN3VtMHVyaWYzaHczb3VsdnNsZnl0ajNueGVtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q217GUnfKAmJlFcjBX/giphy.gif" alt="avatar gif"/>
 
+<!-- Two centered kawaii/coding GIFs -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjRkN3VyN2Z3YmpkdzVzd3VzaGYyNjJ6c3kyZDB5Y28xaTdvNXVieCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7m9QYSiUeURbKqOfS9/giphy.gif" alt="kawaii coding 2"/>
+  <img width="12"/>
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2RnNWtpbXFzYnAzZGVkZDh0OHQ0aW04cmNucWkzeXRvM2sxZnRqdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SqMQCnUleC5zuj9BJz/giphy.gif" alt="kawaii coding 1"/>
+</div>
+
+<br clear="both"/>
+
+<div align="center">
 ---
