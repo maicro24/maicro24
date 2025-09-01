@@ -1,71 +1,89 @@
-# Hi, I'm Abdelkrim Boucerba 👋
+<h1 align="center">Hey 👋 What's Up? I'm Abdelkrim Boucerba</h1>
 
-**Data Science | Business & Economics | Marketing Strategy | Project Leadership**
+###
 
----
-
-## 👨‍🎓 About Me
-
-I am a Data Scientist and Project Leader with a Master’s degree in Data Science for Business and Economics.  
-My career bridges the gap between technical expertise, economic insight, and strategic marketing, enabling me to deliver impactful, data-driven solutions across multiple industries.
-
-I specialize in turning complex data into actionable strategies that drive growth, efficiency, and innovation — always with a strong focus on leadership, collaboration, and trust.
+<p align="center">
+  <b>Data Science | Business & Economics | Marketing Strategy | Project Leadership</b>
+</p>
 
 ---
 
-## 💡 What I Do
+## 👨‍🎓 About Me  
+
+I am a **Data Scientist and Project Leader** with a Master’s degree in *Data Science for Business and Economics*.  
+My work bridges technical expertise, economic insight, and strategic marketing — delivering **data-driven solutions** that fuel growth, efficiency, and innovation.  
+
+I turn complex data into **actionable strategies**, always guided by leadership, collaboration, and trust.  
+
+---
+
+## 💡 What I Do  
 
 **Data Science & Analytics**  
-Building machine learning models, predictive analytics, and AI-driven insights to solve real-world business problems.
+📊 Building ML models, predictive analytics & AI-driven insights to solve real-world problems.  
 
 **Economics & Business Intelligence**  
-Applying econometrics, financial analysis, and market trends to optimize decision-making and resource allocation.
+📈 Applying econometrics & market trends to optimize decision-making.  
 
 **Marketing Strategy**  
-Designing and executing high-impact marketing strategies, integrating data insights to maximize ROI, improve customer engagement, and strengthen brand positioning.
+🚀 Designing impactful marketing strategies, integrating data to maximize ROI & customer engagement.  
 
 **Project Leadership**  
-Leading cross-functional teams, managing multidisciplinary projects, and ensuring smooth collaboration and reliable execution.  
-👉 I believe in being more than just a manager — I am a trusted partner you can rely on to carry your project with confidence.
+🤝 Leading cross-functional teams & ensuring reliable project execution with confidence.  
 
 ---
 
-## 🛠️ Skills
-
-**Programming & Tech Stack**  
-Python | R | SQL | JavaScript | Git | Docker
-
-**Data Science & AI**  
-Machine Learning | Deep Learning | Predictive Modeling | Data Mining | Big Data Analytics | Statistics | Data Visualization
-
-**Business & Economics**  
-Econometrics | Business Intelligence | Financial Analysis | Strategic Planning | Market Analysis
-
-**Marketing Expertise**  
-Digital Marketing | Customer Segmentation | Campaign Analysis | Market Research | ROI Optimization
-
-**Tools & Platforms**  
-Jupyter | Pandas | Scikit-learn | TensorFlow | Tableau | Power BI | Excel
-
-**Leadership & Management**  
-Team Coordination | Stakeholder Communication | Strategic Roadmapping | Agile & Lean Methods
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="60" alt="tableau logo" />
+</div>
 
 ---
 
-## 🌟 Portfolio Highlights
+## 🌟 Portfolio Highlights  
 
-- **Led and delivered Smart Fish Farming – JunctionX Algiers Hackathon Project:**  
-  A data-driven aquaculture solution integrating AI, IoT, and predictive analytics.
+- 🐟 **Smart Fish Farming (JunctionX Algiers Hackathon)**  
+   Data-driven aquaculture solution using AI, IoT & predictive analytics.  
 
-- **Designed marketing strategies that blended data science with customer insights to drive measurable growth.**
+- 📊 **Marketing strategies powered by Data Science**  
+   Blending customer insights & analytics to drive measurable growth.  
 
-- **Coordinated multidisciplinary projects combining economics, data science, and business applications.**
+- 🧑‍🤝‍🧑 **Cross-disciplinary leadership**  
+   Coordinating projects at the intersection of economics, business & data science.  
 
 ---
 
-## 🤝 Let’s Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelkrim-boucerba-62963331a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/abdelkrim-boucerba-62963331a/)
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdelkrim-boucerba&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=abdelkrim-boucerba&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
