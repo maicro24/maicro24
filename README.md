@@ -60,12 +60,20 @@
 </div>
 
 ---
-
 <h2 align="left">Hi 👋! My name is Abdelkrim Boucerba and I'm a Data Scientist & Marketing Strategist from Algeria.</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwdWwzOXU4M3JuN3VtMHVyaWYzaHczb3VsdnNsZnl0ajNueGVtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q217GUnfKAmJlFcjBX/giphy.gif" alt="coding gif"/>
+<!-- Avatar: خفيف ومحاذاة يمين بدون تكسير التخطيط -->
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwdWwzOXU4M3JuN3VtMHVyaWYzaHczb3VsdnNsZnl0ajNueGVtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q217GUnfKAmJlFcjBX/giphy.gif" alt="avatar gif"/>
 
+<!-- GIFs أسفل العنوان بشكل مركزي -->
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2RnNWtpbXFzYnAzZGVkZDh0OHQ0aW04cmNucWkzeXRvM2sxZnRqdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SqMQCnUleC5zuj9BJz/giphy.gif" alt="kawaii coding 1"/>
+  <img width="12"/>
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjRkN3VyN2Z3YmpkdzVzd3VzaGYyNjJ6c3kyZDB5Y28xaTdvNXVieCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7m9QYSiUeURbKqOfS9/giphy.gif" alt="kawaii coding 2"/>
+</div>
+
+<br clear="both"/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=maicro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maicro24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
