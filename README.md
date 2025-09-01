@@ -59,14 +59,25 @@
   </a>
 </div>
 
-###
+---
+
+<h2 align="left">Hi 👋! My name is Abdelkrim Boucerba and I'm a Data Scientist & Marketing Strategist from Algeria.</h2>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maicro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maicro24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both"/>
+
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maicro24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=maicro24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maicro24/maicro24/output/pacman-contribution-graph-dark.svg">
@@ -74,4 +85,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maicro24/maicro24/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<img src="https://raw.githubusercontent.com/maicro24/maicro24/output/snake.svg" alt="Snake animation" />
+
+---
