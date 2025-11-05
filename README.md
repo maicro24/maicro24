@@ -66,10 +66,6 @@
 <img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwdWwzOXU4M3JuN3VtMHVyaWYzaHczb3VsdnNsZnl0ajNueGVtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q217GUnfKAmJlFcjBX/giphy.gif" alt="avatar gif"/>
 
 <!-- Two centered kawaii/coding GIFs -->
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjRkN3VyN2Z3YmpkdzVzd3VzaGYyNjJ6c3kyZDB5Y28xaTdvNXVieCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7m9QYSiUeURbKqOfS9/giphy.gif" alt="kawaii coding 2"/>
-  <img width="12"/>
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2RnNWtpbXFzYnAzZGVkZDh0OHQ0aW04cmNucWkzeXRvM2sxZnRqdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SqMQCnUleC5zuj9BJz/giphy.gif" alt="kawaii coding 1"/>
 </div>
 
 <br clear="both"/>
